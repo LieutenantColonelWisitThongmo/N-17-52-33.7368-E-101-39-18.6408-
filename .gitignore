@@ -96,3 +96,7 @@ https://www.histats.com/viewstats/?sid=4300431&ccid=1032# .rubocop-https?--*http
 ![IMG_20241028_160904](https://github.com/user-attachments/assets/a6fde9f8-e2c0-4fa1-b68a-696d0bca941d)
 ![IMG_20241102_163229](https://github.com/user-attachments/assets/6956388e-ac06-4006-9d43-7f0916584645)
 ![IMG_20241102_163236](https://github.com/user-attachments/assets/c5e21efb-49fe-4b94-8077-5a04bc7da36d)
+# Craft 2 Storage (https://craftcms.com/support/craft-storage-gitignore)
+# not necessary for Craft 3 (https://github.com/craftcms/craft/issues/26)
+/craft/storage/*
+!/craft/storage/rebrand
