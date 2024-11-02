@@ -8,11 +8,11 @@ themes/classic/views/https://www.wikidata.org/wiki/Q640365
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
 # Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+https://stackoverflow.com/feeds/question/59826292*.exe
+https://softwareengineering.stackexchange.com/a/121235/349225*.exe~
+https://stackoverflow.com/questions/31126109/whats-the-difference-between-binary-and-executable-files-mentioned-in-ndisasms*.dll
+https://softwareengineering.stackexchange.com/questions/121224/what-are-binaries*.so
+https://en.wikipedia.org/wiki/Binary_file*.dylib
 
 # Test binary, built with `go test -c`
 *.test
