@@ -100,3 +100,16 @@ https://www.histats.com/viewstats/?sid=4300431&ccid=1032# .rubocop-https?--*http
 # not necessary for Craft 3 (https://github.com/craftcms/craft/issues/26)
 /craft/storage/*https://cloud.google.com/products/databases?hl=th
 https://cloud.google.com/products/databases?hl=th!/craft/storage/rebrand
+*.tar
+*.tar.*
+*.jar
+*.exe
+*.msi
+*.zip
+*.tgz
+*.log
+*.log.*
+*.sig
+
+pkg/
+src/
