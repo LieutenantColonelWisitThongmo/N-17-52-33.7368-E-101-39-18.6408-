@@ -22,3 +22,4 @@
 ![1000002611](https://github.com/user-attachments/assets/bd2bb4ad-5841-44fc-a97f-bc840f24f1fb)
 ![1000002612](https://github.com/user-attachments/assets/db94faf7-02f8-4a62-8bc6-d4062fb436dd)
 ![1000002609](https://github.com/user-attachments/assets/3477fae5-f059-4434-a3eb-9b1ed40eeda2)
+www.loei.go.th
